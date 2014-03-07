@@ -1,0 +1,16 @@
+
+.learn-more{
+    height: 200px;
+    width: 200px;
+    border-style: none;
+    background-color: red;
+    border-radius: 100px;
+    font-size: 18px;
+
+}
+.learn-more:hover{
+    background-color: green;
+}
+p.hide{
+    display: none;
+}

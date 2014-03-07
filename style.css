@@ -1,0 +1,28 @@
+div {
+    height:100px;
+    width:100px;
+    display: inline-block;
+    background-color:#008800
+}
+
+#red {
+    background-color:#FF0000;
+}
+
+#blue {
+    background-color:#0000FF;
+}
+
+#yellow {
+    background-color:#E2BE22;
+}
+
+#green {
+    background-color:#008800;
+}
+#non-profit{
+	font-family: futura, helvetica, sans-serif;
+}
+div:hover{
+	background-color: #FF0000;
+}
